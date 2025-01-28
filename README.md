@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Juan!
+# 👋 ¡Hola, soy Sergio!
 
 ### 💻 Sobre mí  
 Soy un apasionado estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con una sólida base adquirida gracias a mi formación en **Sistemas Microinformáticos y Redes**. Mi curiosidad y amor por la tecnología me impulsan a crear aplicaciones funcionales, intuitivas y eficientes.
