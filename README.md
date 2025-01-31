@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Sergio!  
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y la programación, siempre en busca de crear aplicaciones útiles y funcionales. 🚀  
+Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y la programación, siempre en busca de crear aplicaciones útiles y funcionales.  
 
 ---
 
@@ -12,15 +12,12 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y la prog
 
 ---
 
-## 🚀 Proyectos Destacados  
-🌟 **CineApp**  
-Aplicación gráfica en Java Swing para gestionar películas y generar estadísticas visuales interactivas.  
-
-🎮 **Simulador de Carreras**  
-Programa Java que simula una carrera usando hilos y animaciones.  
-
-📱 **Gestión de Eventos Android**  
-Agenda digital con notificaciones y diálogos personalizados, ideal para gestionar tus eventos.  
+## 🔥 Áreas de interés  
+✔️ **Desarrollo de software** → Me encanta programar aplicaciones eficientes y bien estructuradas.  
+✔️ **Interfaces gráficas (GUI)** → Diseño experiencias de usuario intuitivas con Java Swing y Android.  
+✔️ **Optimización y rendimiento** → Busco que mis aplicaciones sean rápidas, fluidas y escalables.  
+✔️ **Sistemas multihilo** → Me interesa la programación concurrente y cómo mejorar la ejecución de procesos.  
+✔️ **Bases de datos** → Trabajo con MySQL y SQLite para almacenar y gestionar información de forma eficiente.  
 
 ---
 
